@@ -147,8 +147,6 @@ Reflections can also:
 ###Contribute
 Pull requests are welcomed!!
 
-The license is [WTFPL](http://www.wtfpl.net/), just do what the fuck you want to. 
-This library is given as an act of giving and generosity, [Dāna](http://en.wikipedia.org/wiki/D%C4%81na)
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WLN75KYSR6HAY)
+This library is licenced under the [GPL v3](https://www.gnu.org/licenses/gpl.html). It is a relicensed fork of [reflections](https://github.com/ronmamo/reflections), so please submit your contributions there!
 
 _Cheers_
